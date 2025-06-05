@@ -4,12 +4,12 @@ import { motion } from "framer-motion";
 // Sample data
 const ficMembers = [
   {
-    name: "Prof. GN Sir",
+    name: "Prof. G N Singh",
     photo: "/GN_Sir.jpg",
     role: "Faculty Advisor",
   },
   {
-    name: "Prof. Esha Saha Ma'am",
+    name: "Prof. Esha Saha",
     photo: "/Esha_Saha.jpg",
     role: "Faculty Advisor",
   },
